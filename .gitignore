@@ -1,0 +1,15 @@
+# Other files and folders
+train_dataset/
+test_dataset/
+PetImages/
+venv/
+
+
+# Executables
+preprocess_dataset.py
+organize_dataset.py
+check_balance_CatDog.py
+
+# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
+# should NOT be excluded as they contain compiler settings and other important
+# information for Eclipse / Flash Builder.
