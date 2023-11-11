@@ -13,3 +13,5 @@ The original images have been sourced from the Microsoft Cats vs Dogs Dataset on
 
 Performance
 While the model achieves commendable accuracy on the training set, it currently exhibits a lower accuracy on the test set. This suggests an overfitting to the training data, and further improvements are necessary for the model to generalize better to new, unseen images.
+
+Note: The train and test datasets of images were to big to be uploaded on GitHub. 
